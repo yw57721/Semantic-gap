@@ -9,5 +9,5 @@ HAN: using glove word embeddings + HAN
 TextGCN: using review data and needs data build a textGCN and do classification.
 
 Elmo: 
-  using ELmo word embeddings and many sentence embedding techniques(MR, Random-BiLSTM, tf-idf weighted), 
-  multitask experiment using 5 classes
+  using ELmo word embeddings and many sentence embedding techniques(MR, Random-BiLSTM, tf-idf weighted), \\
+  also contains multitask experiment using 5 classes
