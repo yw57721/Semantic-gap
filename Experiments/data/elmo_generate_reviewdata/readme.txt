@@ -1,0 +1,1 @@
+This is simple embedding techniques of customer generated needs data by ASIN.
